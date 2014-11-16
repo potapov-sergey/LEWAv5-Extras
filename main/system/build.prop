@@ -151,5 +151,5 @@ ro.lewa.device=Topaz
 ro.lewa.version=LeWa_14.11.14
 ro.lewa.camera.flashlight=true
 ro.lewa.swap2sdcard=1
-ro.lewa.osversion=5
+ro.lewa.osversion=6
 ro.modversion=LeWa_v6-14.11.14-RU-Topaz
